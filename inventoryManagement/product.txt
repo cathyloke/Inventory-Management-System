@@ -1,0 +1,8 @@
+P1|Nurse Jamie The Formula Eye Cream (50ml)|skincare|An eye cream that helps to minimise the appearance of dark circles and puffiness while fighting visible signs of aging.|163.9|combination|eyes
+P2|The Ordinary Niacinamide 10% + Zinc 1% (30ml)|skincare|A high strength vitamin and mineral blemish formula that targets breakouts, minimises pores and clears congested pores by regulating sebum production.|34.9|combination|face
+P3|NIVEA Intensive Moisture Body Milk Body Lotion (400ml)|skincare|MOISTURE SERUM and 2x almond oil. It intensively nourishes for 48h to noticeably reduce the roughness of your very dry skin - after just 1 application.|23.9|dry|body
+P4|3W CLINIC Intensive UV Sunblock Cream SPF50+ PA+++ (70ml)|skincare|A sunscreen that protects skin from sun and keeps the skin hydrated.|18.0|combination|face
+P5|THOMSON Probiogut 30S|health|Probiotic cultures helping in improving intestinal or gut function.|121.6|tablet
+P6|BRANDS Essence Of Chicken With Cordyceps 70g x 12's|health|Essence of Chicken with Cordyceps helps to increase the qi, or vital energy, that flows through the body to promote stamina, overall well-being, and recovery from fatigue and illness.|80.9|liquid
+P7|SWISSE Ultiboost Odourless Fish Oil 1800mg 60S|health|Fish oil concentrate.|123.2|capsule
+P8|CHAMPS Vitamin C 250mg + Zinc Effervescent 15's|health|For children age 4 - 12 years old. 1 tablet once daily, dissolved in half to one glass of water, to be taken after meals or as directed by physician.|14.9|liquid

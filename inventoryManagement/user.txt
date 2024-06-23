@@ -1,0 +1,6 @@
+123A1|Loke Weng Yan|lwy|12345|lokewengyan@example.com|0123456789|10, Jalan Delima, Taman Delima
+A2|Choo Jia Zheng|cjz|54321|choojiazheng@example.com|0198765432|11, Jalan Fishball, Taman Ikan
+C1|Tan Hon Tiong|tht|11111|tanhontiong@example.com|0112442528|12, Jalan Laptop, Taman Teknologi
+C2|Tin Hui Hui|thh|99999|tinhuihui@example.com|0109876543|13, Jalan Pencil, Taman Pencil Box
+A5|123|123|123|123|123|123
+C5|456|456|456|456|456|456
